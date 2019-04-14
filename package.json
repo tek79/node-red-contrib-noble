@@ -3,7 +3,7 @@
   "version": "0.3.0",
   "description": "A Node-RED node that uses Noble to interact with BLEs",
   "dependencies": {
-    "noble": ">=1.9.0"
+    "noble": ">=1.9.2"
   },
   "repository": {
     "type": "git",
