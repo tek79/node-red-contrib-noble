@@ -3,11 +3,11 @@
   "version": "0.3.0",
   "description": "A Node-RED node that uses Noble to interact with BLEs",
   "dependencies": {
-    "noble": ">=0.2.7"
+    "@abandonware/noble": "~1.9.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kmi/node-red-contrib-noble"
+    "url": "https://github.com/tek79/node-red-contrib-noble"
   },
   "license": "Apache",
   "keywords": [
